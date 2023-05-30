@@ -17,9 +17,11 @@ This project has been conducted API testing using tools such as postman,newman.
 - ```npm test```
 
 ## TestCase:
+https://docs.google.com/spreadsheets/d/1rPOd6ddbZfX3u59bmSCnXcPOsbJbYNU5/edit?usp=sharing&ouid=113808573890065690048&rtpof=true&sd=true
 
 
 ## Bugreport:
+https://docs.google.com/spreadsheets/d/1gerdyxYP394IGEXR413wuMHN6M9qEoeN/edit?usp=sharing&ouid=113808573890065690048&rtpof=true&sd=true
 
 ## API Documentation:
 
