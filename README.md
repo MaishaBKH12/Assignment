@@ -1,4 +1,4 @@
-# Assignment
+# DMoney Users API Testing
 
 ## Project Summary:
 This project has been conducted API testing using tools such as postman,newman.
